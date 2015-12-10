@@ -53,7 +53,17 @@ This is a tiny SCSS library to help you build websites faster than ever, whithou
            └── tipography.scss
 
 ### Tested in production environments
-This library has been build for http://www.appszoom.com http://www.appszoom.com/developers and http://www.mobonaut.com . Now it's an open source, so feel free to contribute!
+
+[![Appszoom.com][2]][1]
+
+  [1]: http://http://www.appszoom.com
+  [2]: http://penguin-library.github.io/demo/img/github/logo-appszoom.png
+
+[![Appszoom.com][3]][4]
+
+  [3]: http://http://www.mobonaut.com
+  [4]: http://penguin-library.github.io/demo/img/github/logo-mobonaut.png
+
 
 ###  Contributing & reporting issues
 Use GitHub Issues for suggesting enhancements and reporting bugs.
@@ -83,5 +93,3 @@ Use GitHub Issues for suggesting enhancements and reporting bugs.
     THE SOFTWARE.
 
 
-![Appszoom](http://penguin-library.github.io/demo/img/github/logo-appszoom.png)
-![Mobonaut](http://penguin-library.github.io/demo/img/github/logo-mobonaut.png)
