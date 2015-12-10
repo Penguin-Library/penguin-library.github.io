@@ -56,16 +56,19 @@ This is a tiny SCSS library to help you build websites faster than ever, whithou
 
 
 
-[![appszoom.com][2]][1]
+[![appszoom.com][1]][2] [![appszoom.com/developers][3]][4] [![mobonaut.com][5]][6]
 
-[1]: http://www.appszoom.com
-[2]: http://penguin-library.github.io/demo/img/github/logo-appszoom.png
 
-[![mobonaut.com][4]][3]
+[1]: http://penguin-library.github.io/demo/img/github/logo-appszoom-s.png 
+[2]: http://www.appszoom.com
 
-[3]: http://www.mobonaut.com
-[4]: http://penguin-library.github.io/demo/img/github/logo-mobonaut.png
 
+[3]: http://penguin-library.github.io/demo/img/github/logo-appszoom-developers-s.png
+[4]: http://www.appszoom.com/developers
+
+
+[5]: http://penguin-library.github.io/demo/img/github/logo-mobonaut-s.png
+[6]: http://www.mobonaut.com
 
 
 
