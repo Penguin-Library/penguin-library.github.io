@@ -52,11 +52,11 @@ This is a tiny SCSS library to help you build websites faster than ever, whithou
            ├── tabs.scss
            └── tipography.scss
 
-
+### Tested in production environments
+This library has been build for http://www.appszoom.com http://www.appszoom.com/developers and http://www.mobonaut.com . Now it's an open source, so feel free to contribute!
 
 ###  Contributing & reporting issues
-Feel free to use GitHub Issues for suggesting enhancements and reporting bugs.
-
+Use GitHub Issues for suggesting enhancements and reporting bugs.
 
 ### License
 
@@ -81,3 +81,7 @@ Feel free to use GitHub Issues for suggesting enhancements and reporting bugs.
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
+
+
+![Appszoom](http://penguin-library.github.io/demo/img/logo-appszoom.png)
+![Mobonaut](http://penguin-library.github.io/demo/img/logo-mobonaut.png)
