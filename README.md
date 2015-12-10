@@ -25,34 +25,33 @@ This is a tiny SCSS library to help you build websites faster than ever, whithou
 Included files
 -----------
 
-```css
-   src/
-    ├── penguin.scss                     /* Import library modules from scss folder */
-    ├── styles.scss                      /* Import main library scss file and configuration variables */
-    ├── variables.scss                   /* Configure grid system, colors, font family, font size, borders... */
-    └── scss/
-          ├── background-colors.scss
-          ├── bootstrapgrid/               /* Bootstrap grid system */
-          │     ├── grid.scss
-          │     └── grid-frameworks.scss
-          ├── bootstrapgrid.scss           /* Bootstrap main grid file */
-          ├── buttons.scss
-          ├── flexboxgrid/                 /* Flexboxgrid system */
-          │      └── grid.scss
-          ├── flexboxgrid.scss             /* Flexfox main grid file */
-          ├── forms.scss
-          ├── helpers.scss                 /* Utilities and modifiers */
-          ├── layout.scss
-          ├── loading-bar.scss
-          ├── loading-spinner.scss
-          ├── main.scss
-          ├── mixins.scss
-          ├── placeholders.scss
-          ├── reset.scss
-          ├── tables.scss
-          ├── tabs.scss
-          └── tipography.scss
-```
+    src/
+     ├── penguin.scss                     /* Import library modules from scss folder */
+     ├── styles.scss                      /* Import main library scss file and configuration variables */
+     ├── variables.scss                   /* Configure grid system, colors, font family, font size, borders... */
+     └── scss/
+           ├── background-colors.scss
+           ├── bootstrapgrid/               /* Bootstrap grid system */
+           │     ├── grid.scss
+           │     └── grid-frameworks.scss
+           ├── bootstrapgrid.scss           /* Bootstrap main grid file */
+           ├── buttons.scss
+           ├── flexboxgrid/                 /* Flexboxgrid system */
+           │      └── grid.scss
+           ├── flexboxgrid.scss             /* Flexfox main grid file */
+           ├── forms.scss
+           ├── helpers.scss                 /* Utilities and modifiers */
+           ├── layout.scss
+           ├── loading-bar.scss
+           ├── loading-spinner.scss
+           ├── main.scss
+           ├── mixins.scss
+           ├── placeholders.scss
+           ├── reset.scss
+           ├── tables.scss
+           ├── tabs.scss
+           └── tipography.scss
+
 
 
 Contributing & reporting issues
