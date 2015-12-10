@@ -1,5 +1,6 @@
 
 
+![Penguin cover](http://penguin-library.github.io/demo/img/github-cover.png)
 
 Penguin library
 ========================================
@@ -23,7 +24,7 @@ This is a tiny SCSS library to help you build websites faster than ever, whithou
 
 
 Included files
------------
+-----------[]
 
     src/
      ├── penguin.scss                     /* Import library modules from scss folder */
