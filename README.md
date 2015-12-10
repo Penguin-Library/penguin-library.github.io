@@ -7,13 +7,13 @@ Penguin library
 The smallest and lightest scss library.
 
 
-Online demo
------------
+### Online demo
+
 [Visit plugin website](http://penguin-library.github.io/).
 
 
-What's the difference with other SCSS libraries?
------------
+### What's the difference with other SCSS libraries?
+
 This is a tiny SCSS library to help you build websites faster than ever, whithout hundreds of (never used) selectors.
 
 * Modular ready
@@ -23,8 +23,7 @@ This is a tiny SCSS library to help you build websites faster than ever, whithou
 
 
 
-Included files
------------[]
+### Included files
 
     src/
      ├── penguin.scss                     /* Import library modules from scss folder */
@@ -55,13 +54,11 @@ Included files
 
 
 
-Contributing & reporting issues
------------
+###  Contributing & reporting issues
 Feel free to use GitHub Issues for suggesting enhancements and reporting bugs.
 
 
-License
--------
+### License
 
     The MIT License (MIT)
 
