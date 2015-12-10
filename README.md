@@ -9,7 +9,7 @@ The smallest and lightest scss library.
 
 ### Online demo
 
-[Visit plugin website](http://penguin-library.github.io/).
+[Visit demo website](http://penguin-library.github.io/).
 
 
 ### What's the difference with other SCSS libraries?
