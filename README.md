@@ -1,6 +1,6 @@
 
 
-![Penguin cover](http://penguin-library.github.io/demo/img/github-cover.png)
+![Penguin cover](http://penguin-library.github.io/demo/img/github/github-cover.png)
 
 Penguin library
 ========================================
@@ -83,5 +83,5 @@ Use GitHub Issues for suggesting enhancements and reporting bugs.
     THE SOFTWARE.
 
 
-![Appszoom](http://penguin-library.github.io/demo/img/logo-appszoom.png)
-![Mobonaut](http://penguin-library.github.io/demo/img/logo-mobonaut.png)
+![Appszoom](http://penguin-library.github.io/demo/img/github/logo-appszoom.png)
+![Mobonaut](http://penguin-library.github.io/demo/img/github/logo-mobonaut.png)
